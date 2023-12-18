@@ -497,6 +497,15 @@ section {
   margin-bottom: 10px;
 }
 
+.resume .resume-item h6 {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
 .resume .resume-item ul {
   padding-left: 20px;
 }
